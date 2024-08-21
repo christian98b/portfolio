@@ -62750,7 +62750,7 @@ s=t.af
 j=A.oZ(A.b([A.hr(A.b([A.bX("Hi! Ich bin Christian",m,j.ht(h?20:m)),A.bX("Business Information Systems B.Sc.",m,A.a9(a).p2.y),A.bX("& based in Germany",m,A.a9(a).p2.z)],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8)
 r=A.a9(a).p2.e
 r.toString
-r=A.b([B.f3,A.oZ(A.b([A.hr(A.b([A.bX("INTERESTS AND TECH KNOWLEDGE",m,r.ht(h?20:m)),A.hr(A.b([A.bX("> Dart <",m,A.a9(a).p2.y),A.bX("> Java <",m,A.a9(a).p2.y),A.bX("> Python <",m,A.a9(a).p2.y),A.bX("> App development with Flutter <",m,A.a9(a).p2.y),A.bX("> Backend development <",m,A.a9(a).p2.y),A.bX("> Applied AI (LLM pipelines)<",m,A.a9(a).p2.y),A.bX("> SQL <",m,A.a9(a).p2.y),A.bX("> Automation <",m,A.a9(a).p2.y),A.bX("> Database design <",m,A.a9(a).p2.y)],s),B.aa,B.aj,B.a8)],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8),B.f3],s)
+r=A.b([B.f3,A.oZ(A.b([A.hr(A.b([A.bX("INTERESTS AND TECH KNOWLEDGE",m,r.ht(h?20:m)),A.hr(A.b([A.bX("> Dart <",m,A.a9(a).p2.y),A.bX("> Java <",m,A.a9(a).p2.y),A.bX("> Python <",m,A.a9(a).p2.y),A.bX("> App development with Flutter <",m,A.a9(a).p2.y),A.bX("> Backend development <",m,A.a9(a).p2.y),A.bX("> Applied AI (LLM pipelines) <",m,A.a9(a).p2.y),A.bX("> SQL <",m,A.a9(a).p2.y),A.bX("> Automation <",m,A.a9(a).p2.y),A.bX("> Database design <",m,A.a9(a).p2.y)],s),B.aa,B.aj,B.a8)],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8),B.f3],s)
 if(A.bx(a,m,k).w.a.a>800){q=A.a9(a).p2.e
 q.toString
 r.push(A.oZ(A.b([A.hr(A.b([A.bX(l,m,q.ht(h?20:m)),A.bX("[ Reserve Officer (Bundeswehr) > 2016-2018 ]",m,A.a9(a).p2.y),A.bX("[ Bachelor of Science in BInfSystems (Goettingen) > 2018 - 2023 ]",m,A.a9(a).p2.y),A.bX("[ Part-time Software Development (ASC G\xf6ttingen) > 2022 - today ]",m,A.a9(a).p2.y),A.bX("[ Enrolled in Master of Science in BInfSystems > 2023 - today ]",m,A.a9(a).p2.y)],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8))}if(A.bx(a,m,k).w.a.a<=800){k=A.a9(a).p2.e
@@ -62758,16 +62758,16 @@ k.toString
 k=A.bX(l,m,k.ht(h?20:m))
 q=A.a9(a).p2.y
 q.toString
-q=A.bX("[ Reserveoffizier (BW) > 2016-2018 ]",m,q.ht(h?14:m))
+q=A.bX("[ Reserveoffizier (BW) > 2016-2018 ]",m,q.ht(h?13:m))
 p=A.a9(a).p2.y
 p.toString
-p=A.bX("[ BSc Winf (Goettingen) > 2018 - 2023 ]",m,p.ht(h?14:m))
+p=A.bX("[ BSc Winf (Goettingen) > 2018 - 2023 ]",m,p.ht(h?13:m))
 o=A.a9(a).p2.y
 o.toString
-o=A.bX("[ Software Dev > 2022 - today ]",m,o.ht(h?14:m))
+o=A.bX("[ Software Dev > 2022 - today ]",m,o.ht(h?13:m))
 n=A.a9(a).p2.y
 n.toString
-r.push(A.oZ(A.b([A.hr(A.b([k,q,p,o,A.bX("[ Enrolled in M.Sc. Winf > 2023 - today ]",m,n.ht(h?14:m))],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8))}r.push(B.f3)
+r.push(A.oZ(A.b([A.hr(A.b([k,q,p,o,A.bX("[ Enrolled in M.Sc. Winf > 2023 - today ]",m,n.ht(h?13:m))],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8))}r.push(B.f3)
 k=A.a9(a).p2.e
 k.toString
 r.push(A.oZ(A.b([A.hr(A.b([A.bX("SPOKEN LANGUAGES",m,k.ht(h?20:m)),A.bX("German - native",m,A.a9(a).p2.y),A.bX("English - advanced",m,A.a9(a).p2.y)],s),B.aa,B.aj,B.a8)],s),B.bi,B.a8))
